@@ -1,5 +1,4 @@
 #  Customer Onboarding Application
-# "Test a Node RESTful API with Mocha and Chai"
 
 # git clone https://github.com/choudharydk/customerOnboardApp.git
 
