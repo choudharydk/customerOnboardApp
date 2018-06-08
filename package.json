@@ -1,7 +1,7 @@
 {
-  "name": "CustomerOnboardingApplication",
+  "name": "customer_onboard_app",
   "version": "1.0.0",
-  "description": "Customer Onboarding Application. Rest API",
+  "description": "Customer Onboarding Application",
   "main": "server.js",
   "author": "Dhruv",
   "license": "ISC",
