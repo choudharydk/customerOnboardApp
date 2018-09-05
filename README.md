@@ -1,4 +1,4 @@
-#  Customer Onboarding Application
+#  Customer Onboarding Application (API automation using mocha & chai)
 
 # git clone https://github.com/choudharydk/customerOnboardApp.git
 
